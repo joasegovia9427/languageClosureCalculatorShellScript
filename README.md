@@ -7,6 +7,7 @@ It will be display the result
 ## Example use::
 
 ❯ cd languageClosureCalculatorShellScript
+
 ❯ sh calcLenguage.sh a b c d
 
 Enjoy!
